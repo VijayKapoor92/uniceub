@@ -1,4 +1,4 @@
-# uniceub
+# Desafio 2 - Vetores - Lista Telefônica
 Esse programa te possibilita brincar com um vetor. Esse vetor é uma lista telefônica, capaz de armazenar até 10 telefones. A lista começará com 2 números testes, basta descomentar o início que gostaria.
 Conseguirá procurar um número de sua escolha, adicionar um número de sua escolha e remover um número de sua escolha.
 
